@@ -33,7 +33,7 @@ RegisterNumber: 212223240009 '''
 
 
 ## Output
-![EX NO 8 AI 1](https://github.com/Antonyabishek2004/QRdecomposition/assets/138849620/554e4016-afcd-48f9-a2d0-9c3f6ad8a337)
+![image](https://github.com/Antonyabishek2004/QRdecomposition/assets/138849620/bfaae500-8ead-4acb-b61b-1a5a2cc8039f)
 ![image](https://github.com/Antonyabishek2004/QRdecomposition/assets/138849620/b8ce2c83-1806-4a31-b2b4-8b1bfb978d52)
 
 ## Result
